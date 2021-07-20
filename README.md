@@ -21,7 +21,7 @@
    1. VGG fine tuning
 1. FCN (Fully convoluted Neural Networks)
    1. Basic implementation
-   1. FCN implementation
+   1. FCN-DenseNet implementation
 1. Encoder-Decoder
    1. Basic implementation
    1. UNet implementation
