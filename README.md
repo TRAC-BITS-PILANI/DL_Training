@@ -32,7 +32,7 @@
 ### Resources
 #### Theory
 1. [3Blue1Brown - Introduction to Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-2. [Deep learning with Pytorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+2. [Deep learning with Pytorch - Book](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 3. [KrishNaik - Deep Learning Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi)
 4. [Andrew NG - Deeplearning.ai 5 Playlists of specialisation](https://www.youtube.com/c/Deeplearningai/playlists)
 5. [MIT 6.S191 - Intro to deep learning](http://introtodeeplearning.com/)
