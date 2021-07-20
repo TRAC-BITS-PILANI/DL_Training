@@ -21,7 +21,7 @@
    1. VGG fine tuning
 1. FCN (Fully convoluted Neural Networks)
    1. Basic implementation
-   1. FCN-DenseNet implementation
+   1. FCN implementation
 1. Encoder-Decoder
    1. Basic implementation
    1. UNet implementation
@@ -47,4 +47,5 @@
 3. Notebooks with video explanation - [PyTorch for Deep Learning by Jovian.ai](https://www.youtube.com/watch?v=GIsg-ZUy0MY&ab_channel=freeCodeCamp.org)
 4. Focus on Pytorch Projects only - [Mithi DL video and projects](https://mithi.github.io/deep-blueberry/)
 
-
+#### Problem Statement
+1. Week 1 - you have to use a DenseNet for Semantic Segmentation on COCO dataset. Structure of DenseNet which has to be used is given in this [One hundred layer Tiramisu](https://arxiv.org/pdf/1611.09326v3.pdf). You can find the implementation of this paper [here](https://github.com/bfortuner/pytorch_tiramisu). Coco dataset is a very famous dataset used for segmentation purposes. it can be found in kaggle and it is also part of torchvision library. 
