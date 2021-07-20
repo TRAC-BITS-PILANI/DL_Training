@@ -1,7 +1,7 @@
 # DL_Training
 
 
-### Task list that has to be done 
+### Task list
 1. Linear Regression
    1. Backpropagation
    1. Feature scaling
