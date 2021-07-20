@@ -47,5 +47,4 @@
 3. Notebooks with video explanation - [PyTorch for Deep Learning by Jovian.ai](https://www.youtube.com/watch?v=GIsg-ZUy0MY&ab_channel=freeCodeCamp.org)
 4. Focus on Pytorch Projects only - [Mithi DL video and projects](https://mithi.github.io/deep-blueberry/)
 
-Try to proceed serialwise for both Theory and Practise sections as difficult is increasing serialwise. 
 
